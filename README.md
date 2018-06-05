@@ -1,2 +1,33 @@
-error wallpapers
-================
+![error wallpapers](error-wallpapers.png)
+
+## light theme
+[![commandnotfound](light-240x150/commandnotfound.png)](light-1920x1080/commandnotfound.png)
+[![connectiontimeout](light-240x150/connectiontimeout.png)](light-1920x1080/connectiontimeout.png)
+[![internalservererror](light-240x150/internalservererror.png)](light-1920x1080/internalservererror.png)
+[![invalidsyntax](light-240x150/invalidsyntax.png)](light-1920x1080/invalidsyntax.png)
+[![keyboardinterrupt](light-240x150/keyboardinterrupt.png)](light-1920x1080/keyboardinterrupt.png)
+[![ldretuned1](light-240x150/ldretuned1.png)](light-1920x1080/ldretuned1.png)
+[![nodatainplot](light-240x150/nodatainplot.png)](light-1920x1080/nodatainplot.png)
+[![nospaceleft](light-240x150/nospaceleft.png)](light-1920x1080/nospaceleft.png)
+[![nosuchfile](light-240x150/nosuchfile.png)](light-1920x1080/nosuchfile.png)
+[![permissiondenied](light-240x150/permissiondenied.png)](light-1920x1080/permissiondenied.png)
+[![segmentfault](light-240x150/segmentfault.png)](light-1920x1080/segmentfault.png)
+[![syntaxerror](light-240x150/syntaxerror.png)](light-1920x1080/syntaxerror.png)
+[![traceback](light-240x150/traceback.png)](light-1920x1080/traceback.png)
+[![undefinedreference](light-240x150/undefinedreference.png)](light-1920x1080/undefinedreference.png)
+
+## dark theme
+[![commandnotfound](dark-240x150/commandnotfound.png)](dark-1920x1080/commandnotfound.png)
+[![connectiontimeout](dark-240x150/connectiontimeout.png)](dark-1920x1080/connectiontimeout.png)
+[![internalservererror](dark-240x150/internalservererror.png)](dark-1920x1080/internalservererror.png)
+[![invalidsyntax](dark-240x150/invalidsyntax.png)](dark-1920x1080/invalidsyntax.png)
+[![keyboardinterrupt](dark-240x150/keyboardinterrupt.png)](dark-1920x1080/keyboardinterrupt.png)
+[![ldretuned1](dark-240x150/ldretuned1.png)](dark-1920x1080/ldretuned1.png)
+[![nodatainplot](dark-240x150/nodatainplot.png)](dark-1920x1080/nodatainplot.png)
+[![nospaceleft](dark-240x150/nospaceleft.png)](dark-1920x1080/nospaceleft.png)
+[![nosuchfile](dark-240x150/nosuchfile.png)](dark-1920x1080/nosuchfile.png)
+[![permissiondenied](dark-240x150/permissiondenied.png)](dark-1920x1080/permissiondenied.png)
+[![segmentfault](dark-240x150/segmentfault.png)](dark-1920x1080/segmentfault.png)
+[![syntaxerror](dark-240x150/syntaxerror.png)](dark-1920x1080/syntaxerror.png)
+[![traceback](dark-240x150/traceback.png)](dark-1920x1080/traceback.png)
+[![undefinedreference](dark-240x150/undefinedreference.png)](dark-1920x1080/undefinedreference.png)
